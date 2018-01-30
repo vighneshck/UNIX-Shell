@@ -10,9 +10,9 @@ The contents of this folder are as follows:
 
 # How to run:
 
--Run <make> on the command line to generate the executable named "shell" in the directory. 
+-Run make on the command line to generate the executable named "shell" in the directory. 
 
 -Run ./shell to launch the shell
 
--Once, the objectives are met, close the shell and run <make clean> to remove the shell executable, main.o and func.o
+-Once, the objectives are met, close the shell and run make clean to remove the shell executable, main.o and func.o
 
